@@ -1,0 +1,10 @@
+a = "Harry is a good boy but not a bad boy"
+print(a)
+b = "Harry is a good boy\nbut not a bad boy"
+print(b)
+c = "Harry is a good boy\tbut not a bad boy"
+print(c)
+d = "Harry is a good boy but not a \"bad\" boy"
+print(d)
+e = 'Harry is a good boy but not a \'bad\' boy'
+print(e)
